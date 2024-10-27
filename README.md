@@ -1,5 +1,7 @@
 ## Modelagem Dimensional Star Schema 🎯 
 
+### Stacks Utilizadas
+<img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" alt="MySQL Logo" width="100"/>
 
 ### Objetivo 🎯 
 
